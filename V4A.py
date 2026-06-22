@@ -1,4 +1,3 @@
-#!/home/lysanov/VSCodium-Python/.venv/bin/python3
 from numpy import datetime_data, indices
 import openmeteo_requests
 import requests_cache
